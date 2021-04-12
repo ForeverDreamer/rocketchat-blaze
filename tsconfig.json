@@ -34,7 +34,8 @@
 		"preserveSymlinks": true,
 
 		 "sourceMap": true,
-		 "declaration": true
+		 "declaration": true,                   /* Generates corresponding '.d.ts' file. */
+		 "declarationMap": true                 /* Generates a sourcemap for each corresponding '.d.ts' file. */
 		// "removeComments": false,
 		// "emitDecoratorMetadata": true,
 		// "experimentalDecorators": true,

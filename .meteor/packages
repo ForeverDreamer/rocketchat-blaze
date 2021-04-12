@@ -27,3 +27,9 @@ htmljs
 kadira:blaze-layout
 kadira:flow-router
 rocketchat:tap-i18n
+logging@1.2.0
+ejson@1.1.1
+random@1.2.0
+konecty:user-presence
+service-configuration
+konecty:multiple-instances-status

@@ -42,6 +42,8 @@ inter-process-messaging@0.1.1
 jquery@1.11.11
 kadira:blaze-layout@2.0.1
 kadira:flow-router@2.12.1
+konecty:multiple-instances-status@1.1.0
+konecty:user-presence@2.6.3
 launch-screen@1.2.0
 livedata@1.0.18
 localstorage@1.2.0
@@ -62,6 +64,7 @@ mongo@1.10.1
 mongo-decimal@0.1.2
 mongo-dev-server@1.1.0
 mongo-id@1.0.7
+nooitaf:colors@1.1.2_1
 npm-bcrypt@0.9.3
 npm-mongo@3.8.1
 observe-sequence@1.0.16
